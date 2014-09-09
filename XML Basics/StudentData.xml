@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Students>
+  <Student>
+    <StudentNumber>10009008</StudentNumber>
+    <FirstName>Wallingford</FirstName>
+    <LastName>Sumrall</LastName>
+    <DisplayName>Walls</DisplayName>
+    <Gender>M</Gender>
+    <Address>13711 Mark Messier Tr.</Address>
+    <City>Edmonton</City>
+    <ProvinceState>AB</ProvinceState>
+    <Country>CA</Country>
+    <PostalCodeZip>T6V1H4</PostalCodeZip>
+    <BirthDate>1969-01-27 00:00:00.000</BirthDate>
+  </Student>
+  <Student>
+    <StudentNumber>10009111</StudentNumber>
+    <FirstName>Prabhjot</FirstName>
+    <LastName>Jhas</LastName>
+    <DisplayName>Jot</DisplayName>
+    <Gender>M</Gender>
+    <Address>13711 Oxford</Address>
+    <City>Edmonton</City>
+    <ProvinceState>AB</ProvinceState>
+    <Country>CA</Country>
+    <PostalCodeZip>T6V1G3</PostalCodeZip>
+    <BirthDate>1994-03-10 00:00:00.000</BirthDate>
+  </Student>
+</Students>
